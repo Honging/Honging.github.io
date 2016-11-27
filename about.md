@@ -11,6 +11,8 @@ header-img: "img/red.jpg"
 </center>
 
 
+
+
  **RedingSir is just RedingSir** 
  **no more** 
 
@@ -21,7 +23,7 @@ header-img: "img/red.jpg"
 
 
 <center>
-    <p><img src align="center"></p>
+    <p></p>
 </center>
 
 
