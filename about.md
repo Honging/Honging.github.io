@@ -7,7 +7,7 @@ header-img: "img/red.jpg"
 
 
 <center>
-    <p><img src="#" align="center"></p>
+    <p></p>
 </center>
 
 
@@ -21,7 +21,7 @@ header-img: "img/red.jpg"
 
 
 <center>
-    <p><img src="#" align="center"></p>
+    <p><img src align="center"></p>
 </center>
 
 
