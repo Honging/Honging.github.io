@@ -11,7 +11,7 @@ header-img: "img/zhihu.jpg"
 
 
 <center>
-    <p>oops !  You lost him ! </p>
+    <p>OOPS !  You lost him ! </p>
 </center>
 
 
