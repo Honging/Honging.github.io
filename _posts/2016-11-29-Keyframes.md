@@ -3,7 +3,7 @@ layout: post
 title: Keyframes--为移动客户端提供可扩展的高质量动画
 date: 2016-11-29
 categories: blog
-tags: [translation]
+tags: [translate]
 description: 首篇翻译，必定有误！勿信
 ---
 
